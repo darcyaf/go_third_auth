@@ -1,4 +1,4 @@
-# go-third-auth
+# third-auth written by golang
 第三方登录授权,微信,QQ,微博等
 ## 微信授权
 - 根据code获取accessToken
