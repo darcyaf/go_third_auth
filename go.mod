@@ -1,3 +1,3 @@
-module go_third_auth
+module github.com/darcyaf/go_third_auth
 
 go 1.14

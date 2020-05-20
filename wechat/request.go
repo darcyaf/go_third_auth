@@ -3,8 +3,8 @@ package wechat
 import (
 	"context"
 	"encoding/json"
-	local_http "go_third_auth/local-http"
-	"go_third_auth/tools"
+	local_http "github.com/darcyaf/go_third_auth/local-http"
+	"github.com/darcyaf/go_third_auth/tools"
 )
 
 func (w Wechat) Do(ctx context.Context, path string, payload interface{}) ([]byte, error) {
