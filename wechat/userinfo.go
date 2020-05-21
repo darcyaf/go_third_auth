@@ -24,7 +24,7 @@ type UserInfoResp struct {
 	City         string   `json:"city"`
 	Country      string   `json:"country"`
 	HeadImageUrl string   `json:"headimgurl"`
-	Privilege    []string `json:"privilete"`
+	Privilege    []string `json:"privilege"`
 	UnionId      string   `json:"unionid"`
 }
 
