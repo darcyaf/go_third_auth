@@ -1,5 +1,9 @@
 # third-auth written by golang
 第三方登录授权,微信,QQ,微博等
+
+## 安装
+`go get github.com/darcyaf/go_third_auth`
+
 ## 微信授权
 - 根据code获取accessToken
 ```
